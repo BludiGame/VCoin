@@ -149,4 +149,4 @@ module.exports = {
 > При lineQuestion вывод лога для удобства приостанавливается
 
 
-[![Донат](https://img.shields.io/badge/Донат-Qiwi-orange.svg)](https://qiwi.me/xtcry)
+
