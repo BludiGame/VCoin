@@ -6,7 +6,7 @@ VK Coin Miner - недомайнер на NodeJS
 ![](https://pp.userapi.com/c855028/v855028357/1734f/9kFW8iHOxHc.jpg)
 
 
-[![Донат](https://img.shields.io/badge/Донат-Qiwi-orange.svg)](https://qiwi.me/xtcry)
+
 [![node version](https://img.shields.io/badge/node->%3D8.0-blue.svg?style=flat-square)](https://nodejs.org/)
 [![vcoin version](https://img.shields.io/badge/VCoin-1.3.2-purple.svg?style=flat-square)](https://github.com/xTCry/VCoin/)
 
